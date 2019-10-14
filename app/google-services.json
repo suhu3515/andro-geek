@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592299472091",
+    "firebase_url": "https://androgeek-b59cc.firebaseio.com",
+    "project_id": "androgeek-b59cc",
+    "storage_bucket": "androgeek-b59cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592299472091:android:e4d234b18790a1246948fe",
+        "android_client_info": {
+          "package_name": "com.vhd.androgeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592299472091-326aetd2q9k3cg0g1jcjpdcv98lgag6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vhd.androgeek",
+            "certificate_hash": "5838d49e3ac8b51c44c24433685f1f879cdf9404"
+          }
+        },
+        {
+          "client_id": "592299472091-csje4tilh0r78560vle71k1eu6it7n5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj5g4u7h3qKtOzBd5qq6BVBNpXi5282uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592299472091-csje4tilh0r78560vle71k1eu6it7n5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
