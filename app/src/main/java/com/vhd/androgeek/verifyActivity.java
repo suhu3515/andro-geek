@@ -52,12 +52,12 @@ public class verifyActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 String code = etotp.getText().toString().trim();
-                if(code.isEmpty() || code.length() < 6)
+                /*if(code.isEmpty() || code.length() < 6)
                 {
                     etotp.setError("Enter valid OTP");
                     etotp.requestFocus();
                     return;
-                }
+                }*/
 
                 verifyVerificationCode(code);
             }
