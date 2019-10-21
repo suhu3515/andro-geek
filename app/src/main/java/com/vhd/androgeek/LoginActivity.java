@@ -32,9 +32,9 @@ public class LoginActivity extends AppCompatActivity {
                     return;
                 }
 
-                Intent otp_intent = new Intent(LoginActivity.this,verifyActivity.class);
-                otp_intent.putExtra("mobile",mobile);
-                startActivity(otp_intent);
+                Intent intent = new Intent(LoginActivity.this,verifyActivity.class);
+                intent.putExtra("mobile",mobile);
+                startActivity(intent);
             }
         });
     }
